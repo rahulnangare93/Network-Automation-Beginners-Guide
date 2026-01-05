@@ -13,3 +13,5 @@ Vendor-agnostic libraries like Netmiko make it easy to interact with multiple ne
 
 2️⃣ APIs (Modern & scalable approach)
 Most network vendors expose REST or XML APIs with comprehensive documentation. APIs enable structured, reliable automation and are ideal for configuration, validation, and lifecycle operations. Tools like Postman are extremely useful for testing and understanding these APIs before automating them in code.
+
+It is all about solving problems. Now we know what are the ways we can use to connect to Network Devices.
